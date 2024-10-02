@@ -7,7 +7,6 @@ The Bee Simulation Project is designed to analyze bee interactions and behaviors
 - Technologies Used
 - Installation
 - Usage
-- Data Analysis
 - References
 
 ## Features
@@ -38,3 +37,6 @@ The Bee Simulation Project is designed to analyze bee interactions and behaviors
 and use the link to open the frontend
 - Use sliders to change the simulation parameters such as the number of bees and interaction thresholds.
 - Analyze the output visualization to observe bee interactions and behaviors.
+
+## References
+1. https://github.com/rcterrile/Trophallaxis_Mesa_Discrete
