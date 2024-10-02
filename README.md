@@ -1,6 +1,6 @@
 # Bee_model
 ## Overview:
-The Bee Simulation Project is designed to analyze bee interactions and behaviors using a simulation model built with the Python Mesa module. The project aims to track bee trajectories, calculate interaction probabilities, and enhance the understanding of bee dynamics in various environments.
+The Bee Simulation Project is designed to analyze bee interactions and behaviors using a simulation model built with the Python Mesa module. The project aims to enhance the understanding of bee dynamics by mimicing the experimental setup and providing the option to change the parameters.
 
 ## Table of Contents
 - Features
