@@ -11,24 +11,25 @@ The Bee Simulation Project is designed to analyze bee interactions and behaviors
 
 ## Features
 - Simulates interactions among up to 400 bees.
-- Tracks the trajectories of 40 bees using video analysis.
-- Calculates interaction probabilities based on trajectory data.
-- Iteratively enhances the simulation model using 10-hour video recordings.
 - Implements a user-friendly frontend with sliders for adjusting model parameters.
+- Identifies the nearest bee within the simulation environment based on proximity.
+- Facilitates the exchange of food between bees according to predefined parameters.
+- Simulates the transfer of viruses between bees, reflecting realistic interactions.
+- Tracks and provides analytics on:
+  - The total amount of food shared among bees throughout the simulation.
+  - The total amount of virus transmitted during interactions.
+- Updates analytics continuously as the simulation progresses, allowing for insights into bee interactions.
   
 ## Technologies Used
 - Programming Language: Python
 - Simulation Framework: Mesa
-- Video Analysis: OpenCV
 - Data Manipulation: Pandas, NumPy
-- Visualization: Matplotlib
-- User Interface Design: Figma
-  
+    
 ## Installation
 1. Clone the repository:
 `git clone https://github.com/harneet862/Bee_model.git`
 2. Install the required dependencies:
-`pip install mesa opencv-python pandas numpy matplotlib`
+`pip install mesa pandas numpy `
 3. Ensure you have the necessary data files and videos for analysis.
 
 ## Usage
